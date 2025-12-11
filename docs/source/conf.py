@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'nbsphinx',
 ]
 
 intersphinx_mapping = {
@@ -33,3 +34,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# --- nbsphinx configuration ---
+nbsphinx_execute = 'never'
+nbsphinx_allow_errors = True

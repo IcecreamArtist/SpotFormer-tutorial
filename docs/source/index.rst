@@ -20,3 +20,11 @@ Contents
 
    usage
    api
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tutorials:
+
+   notebooks/T1_spot_input_gen
+   notebooks/T2_pretrain
+   notebooks/T3_cell_emb_gen

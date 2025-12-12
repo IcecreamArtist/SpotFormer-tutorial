@@ -1,6 +1,6 @@
 Welcome to SpotFormer's documentation!
 ===================================
-SpotFormer: subcellular pre-training unifies multi-scale spatial transcriptomic analysis.
+SpotFormer: subcellular pre-training unifies multi-scale spatial transcriptomic analysis
 ====================================================================================================================================================
 
 .. toctree::

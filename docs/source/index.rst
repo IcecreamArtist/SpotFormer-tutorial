@@ -4,7 +4,7 @@ SpotFormer: subcellular pre-training unifies multi-scale spatial transcriptomic 
 ====================================================================================================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    installation
